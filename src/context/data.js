@@ -1,7 +1,30 @@
+import home1 from "../assets/home-1.png";
+import home2 from "../assets/home-2.png";
+import home3 from "../assets/home-3.png";
+import home4 from "../assets/home-4.png";
+import home5 from "../assets/home-5.png";
+import home6 from "../assets/home-6.png";
+import home7 from "../assets/home-7.png";
+import home8 from "../assets/home-8.png";
+import home9 from "../assets/home-9.png";
+import home10 from "../assets/home-10.png";
+import home11 from "../assets/home-11.png";
+import home12 from "../assets/home-12.png";
+import home13 from "../assets/home-13.png";
+import home14 from "../assets/home-14.png";
+import home15 from "../assets/home-15.png";
+import home16 from "../assets/home-16.png";
+import home17 from "../assets/home-17.png";
+import home18 from "../assets/home-18.png";
+import home19 from "../assets/home-19.png";
+import home20 from "../assets/home-20.png";
+import home21 from "../assets/home-21.png";
+import home22 from "../assets/home-22.png";
+
 export const homeData = [
   {
     id: 1,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 1000000,
     size: "2000 sqft",
     bedrooms: 3,
@@ -19,7 +42,7 @@ export const homeData = [
   },
   {
     id: 2,
-    image: "/src/assets/home-2.png",
+    image: home2,
     price: 1200000,
     size: "2500 sqft",
     bedrooms: 4,
@@ -31,7 +54,7 @@ export const homeData = [
   },
   {
     id: 3,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 1500000,
     size: "3000 sqft",
     bedrooms: 5,
@@ -47,7 +70,7 @@ export const homeData = [
   },
   {
     id: 4,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 800000,
     size: "1800 sqft",
     bedrooms: 3,
@@ -63,7 +86,7 @@ export const homeData = [
   },
   {
     id: 5,
-    image: "/src/assets/home-5.png",
+    image: home5,
     price: 950000,
     size: "2200 sqft",
     bedrooms: 4,
@@ -79,7 +102,7 @@ export const homeData = [
   },
   {
     id: 6,
-    image: "/src/assets/home-14.png",
+    image: home14,
     price: 1100000,
     size: "2600 sqft",
     bedrooms: 5,
@@ -91,7 +114,7 @@ export const homeData = [
   },
   {
     id: 7,
-    image: "/src/assets/home-14.png",
+    image: home14,
     price: 1300000,
     size: "2800 sqft",
     bedrooms: 6,
@@ -103,7 +126,7 @@ export const homeData = [
   },
   {
     id: 8,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 13400000,
     size: "2900 sqft",
     bedrooms: 7,
@@ -120,7 +143,7 @@ export const homeData = [
   },
   {
     id: 9,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 1600000,
     size: "3200 sqft",
     bedrooms: 8,
@@ -132,7 +155,7 @@ export const homeData = [
   },
   {
     id: 10,
-    image: "/src/assets/home-10.png",
+    image: home10,
     price: 1700000,
     size: "3500 sqft",
     bedrooms: 9,
@@ -144,7 +167,7 @@ export const homeData = [
   },
   {
     id: 11,
-    image: "/src/assets/home-11.png",
+    image: home11,
     price: 1800000,
     size: "3700 sqft",
     bedrooms: 10,
@@ -157,7 +180,7 @@ export const homeData = [
   },
   {
     id: 12,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 1900000,
     size: "4000 sqft",
     bedrooms: 11,
@@ -169,7 +192,7 @@ export const homeData = [
   },
   {
     id: 13,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 2000000,
     size: "4500 sqft",
     bedrooms: 12,
@@ -186,7 +209,7 @@ export const homeData = [
   },
   {
     id: 14,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 2100000,
     size: "5000 sqft",
     bedrooms: 13,
@@ -198,7 +221,7 @@ export const homeData = [
   },
   {
     id: 15,
-    image: "/src/assets/home-15.png",
+    image: home15,
     price: 2200000,
     size: "5500 sqft",
     bedrooms: 14,
@@ -210,7 +233,7 @@ export const homeData = [
   },
   {
     id: 16,
-    image: "/src/assets/home-16.png",
+    image: home16,
     price: 2300000,
     size: "6000 sqft",
     bedrooms: 15,
@@ -222,7 +245,7 @@ export const homeData = [
   },
   {
     id: 17,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 6400000,
     size: "6500 sqft",
     bedrooms: 16,
@@ -234,7 +257,7 @@ export const homeData = [
   },
   {
     id: 18,
-    image: "/src/assets/home-18.png",
+    image: home18,
     price: 2500000,
     size: "7000 sqft",
     bedrooms: 17,
@@ -252,7 +275,7 @@ export const homeData = [
   },
   {
     id: 19,
-    image: "/src/assets/home-19.png",
+    image: home19,
     price: 2600000,
     size: "7500 sqft",
     bedrooms: 18,
@@ -264,7 +287,7 @@ export const homeData = [
   },
   {
     id: 20,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 2700000,
     size: "8000 sqft",
     bedrooms: 19,
@@ -276,7 +299,7 @@ export const homeData = [
   },
   {
     id: 21,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 2800000,
     size: "8500 sqft",
     bedrooms: 20,
@@ -293,7 +316,7 @@ export const homeData = [
   },
   {
     id: 22,
-    image: "/src/assets/home-22.png",
+    image: home22,
     price: 2900000,
     size: "9000 sqft",
     bedrooms: 21,
@@ -305,7 +328,7 @@ export const homeData = [
   },
   {
     id: 23,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 3000000,
     size: "9500 sqft",
     bedrooms: 22,
@@ -317,7 +340,7 @@ export const homeData = [
   },
   {
     id: 24,
-    image: "/src/assets/home-2.png",
+    image: home2,
     price: 3100000,
     size: "10000 sqft",
     bedrooms: 23,
@@ -334,7 +357,7 @@ export const homeData = [
   },
   {
     id: 25,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 3200000,
     size: "10500 sqft",
     bedrooms: 24,
@@ -346,7 +369,7 @@ export const homeData = [
   },
   {
     id: 26,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 3300000,
     size: "11000 sqft",
     bedrooms: 25,
@@ -363,7 +386,7 @@ export const homeData = [
   },
   {
     id: 27,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 3400000,
     size: "11500 sqft",
     bedrooms: 26,
@@ -381,7 +404,7 @@ export const homeData = [
   },
   {
     id: 28,
-    image: "/src/assets/home-6.png",
+    image: home6,
     price: 3500000,
     size: "12000 sqft",
     bedrooms: 27,
@@ -393,7 +416,7 @@ export const homeData = [
   },
   {
     id: 29,
-    image: "/src/assets/home-20.png",
+    image: home20,
     price: 3600000,
     size: "12500 sqft",
     bedrooms: 28,
@@ -405,7 +428,7 @@ export const homeData = [
   },
   {
     id: 30,
-    image: "/src/assets/home-8.png",
+    image: home8,
     price: 3700000,
     size: "13000 sqft",
     bedrooms: 29,
@@ -417,7 +440,7 @@ export const homeData = [
   },
   {
     id: 31,
-    image: "/src/assets/home-9.png",
+    image: home9,
     price: 3800000,
     size: "13500 sqft",
     bedrooms: 30,
@@ -429,7 +452,7 @@ export const homeData = [
   },
   {
     id: 32,
-    image: "/src/assets/home-10.png",
+    image: home10,
     price: 3900000,
     size: "14000 sqft",
     bedrooms: 31,
@@ -441,7 +464,7 @@ export const homeData = [
   },
   {
     id: 33,
-    image: "/src/assets/home-11.png",
+    image: home11,
     price: 4000000,
     size: "14500 sqft",
     bedrooms: 32,
@@ -453,7 +476,7 @@ export const homeData = [
   },
   {
     id: 34,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 4100000,
     size: "15000 sqft",
     bedrooms: 33,
@@ -465,7 +488,7 @@ export const homeData = [
   },
   {
     id: 35,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 4200000,
     size: "15500 sqft",
     bedrooms: 34,
@@ -477,7 +500,7 @@ export const homeData = [
   },
   {
     id: 36,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 4300000,
     size: "16000 sqft",
     bedrooms: 35,
@@ -489,7 +512,7 @@ export const homeData = [
   },
   {
     id: 37,
-    image: "/src/assets/home-15.png",
+    image: home15,
     price: 4400000,
     size: "16500 sqft",
     bedrooms: 36,
@@ -501,7 +524,7 @@ export const homeData = [
   },
   {
     id: 38,
-    image: "/src/assets/home-16.png",
+    image: home16,
     price: 4500000,
     size: "17000 sqft",
     bedrooms: 37,
@@ -513,7 +536,7 @@ export const homeData = [
   },
   {
     id: 39,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 4600000,
     size: "17500 sqft",
     bedrooms: 38,
@@ -525,7 +548,7 @@ export const homeData = [
   },
   {
     id: 40,
-    image: "/src/assets/home-18.png",
+    image: home18,
     price: 4700000,
     size: "18000 sqft",
     bedrooms: 39,
@@ -537,7 +560,7 @@ export const homeData = [
   },
   {
     id: 41,
-    image: "/src/assets/home-19.png",
+    image: home19,
     price: 4800000,
     size: "18500 sqft",
     bedrooms: 40,
@@ -549,7 +572,7 @@ export const homeData = [
   },
   {
     id: 42,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 4900000,
     size: "19000 sqft",
     bedrooms: 41,
@@ -565,7 +588,7 @@ export const homeData = [
   },
   {
     id: 43,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 5000000,
     size: "19500 sqft",
     bedrooms: 42,
@@ -577,7 +600,7 @@ export const homeData = [
   },
   {
     id: 44,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 5100000,
     size: "20000 sqft",
     bedrooms: 43,
@@ -589,7 +612,7 @@ export const homeData = [
   },
   {
     id: 45,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 5200000,
     size: "20500 sqft",
     bedrooms: 44,
@@ -601,7 +624,7 @@ export const homeData = [
   },
   {
     id: 46,
-    image: "/src/assets/home-2.png",
+    image: home2,
     price: 5300000,
     size: "21000 sqft",
     bedrooms: 45,
@@ -613,7 +636,7 @@ export const homeData = [
   },
   {
     id: 47,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 5400000,
     size: "21500 sqft",
     bedrooms: 46,
@@ -625,7 +648,7 @@ export const homeData = [
   },
   {
     id: 48,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 5500000,
     size: "22000 sqft",
     bedrooms: 47,
@@ -637,7 +660,7 @@ export const homeData = [
   },
   {
     id: 49,
-    image: "/src/assets/home-5.png",
+    image: home5,
     price: 5600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -649,7 +672,7 @@ export const homeData = [
   },
   {
     id: 50,
-    image: "/src/assets/home-6.png",
+    image: home6,
     price: 5700000,
     size: "23000 sqft",
     bedrooms: 49,
@@ -661,7 +684,7 @@ export const homeData = [
   },
   {
     id: 51,
-    image: "/src/assets/home-7.png",
+    image: home7,
     price: 5800000,
     size: "23500 sqft",
     bedrooms: 50,
@@ -673,7 +696,7 @@ export const homeData = [
   },
   {
     id: 52,
-    image: "/src/assets/home-8.png",
+    image: home8,
     price: 5900000,
     size: "24000 sqft",
     bedrooms: 51,
@@ -685,7 +708,7 @@ export const homeData = [
   },
   {
     id: 53,
-    image: "/src/assets/home-9.png",
+    image: home9,
     price: 6000000,
     size: "24500 sqft",
     bedrooms: 52,
@@ -697,7 +720,7 @@ export const homeData = [
   },
   {
     id: 54,
-    image: "/src/assets/home-10.png",
+    image: home10,
     price: 6100000,
     size: "25000 sqft",
     bedrooms: 53,
@@ -709,7 +732,7 @@ export const homeData = [
   },
   {
     id: 55,
-    image: "/src/assets/home-18.png",
+    image: home18,
     price: 11000000,
     size: "25500 sqft",
     bedrooms: 54,
@@ -725,7 +748,7 @@ export const homeData = [
   },
   {
     id: 56,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 6300000,
     size: "26000 sqft",
     bedrooms: 55,
@@ -737,7 +760,7 @@ export const homeData = [
   },
   {
     id: 57,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 6400000,
     size: "26500 sqft",
     bedrooms: 56,
@@ -749,7 +772,7 @@ export const homeData = [
   },
   {
     id: 58,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 6500000,
     size: "27000 sqft",
     bedrooms: 57,
@@ -761,7 +784,7 @@ export const homeData = [
   },
   {
     id: 59,
-    image: "/src/assets/home-15.png",
+    image: home15,
     price: 1000000,
     size: "27500 sqft",
     bedrooms: 58,
@@ -773,7 +796,7 @@ export const homeData = [
   },
   {
     id: 60,
-    image: "/src/assets/home-16.png",
+    image: home16,
     price: 700000,
     size: "28000 sqft",
     bedrooms: 59,
@@ -785,7 +808,7 @@ export const homeData = [
   },
   {
     id: 61,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 5400000,
     size: "21500 sqft",
     bedrooms: 46,
@@ -797,7 +820,7 @@ export const homeData = [
   },
   {
     id: 62,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 5500000,
     size: "22000 sqft",
     bedrooms: 47,
@@ -809,7 +832,7 @@ export const homeData = [
   },
   {
     id: 63,
-    image: "/src/assets/home-5.png",
+    image: home5,
     price: 15600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -821,7 +844,7 @@ export const homeData = [
   },
   {
     id: 64,
-    image: "/src/assets/home-6.png",
+    image: home6,
     price: 5700000,
     size: "23000 sqft",
     bedrooms: 49,
@@ -833,7 +856,7 @@ export const homeData = [
   },
   {
     id: 65,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 5800000,
     size: "23500 sqft",
     bedrooms: 50,
@@ -851,7 +874,7 @@ export const homeData = [
   },
   {
     id: 66,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 5900000,
     size: "24000 sqft",
     bedrooms: 51,
@@ -863,7 +886,7 @@ export const homeData = [
   },
   {
     id: 67,
-    image: "/src/assets/home-20.png",
+    image: home20,
     price: 6000000,
     size: "24500 sqft",
     bedrooms: 52,
@@ -875,7 +898,7 @@ export const homeData = [
   },
   {
     id: 68,
-    image: "/src/assets/home-10.png",
+    image: home10,
     price: 6100000,
     size: "25000 sqft",
     bedrooms: 53,
@@ -887,7 +910,7 @@ export const homeData = [
   },
   {
     id: 69,
-    image: "/src/assets/home-21.png",
+    image: home21,
     price: 12000000,
     size: "25500 sqft",
     bedrooms: 54,
@@ -899,7 +922,7 @@ export const homeData = [
   },
   {
     id: 70,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 6300000,
     size: "26000 sqft",
     bedrooms: 55,
@@ -911,7 +934,7 @@ export const homeData = [
   },
   {
     id: 71,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 6400000,
     size: "26500 sqft",
     bedrooms: 56,
@@ -923,7 +946,7 @@ export const homeData = [
   },
   {
     id: 72,
-    image: "/src/assets/home-5.png",
+    image: home5,
     price: 6500000,
     size: "27000 sqft",
     bedrooms: 57,
@@ -939,7 +962,7 @@ export const homeData = [
   },
   {
     id: 73,
-    image: "/src/assets/home-15.png",
+    image: home15,
     price: 1000000,
     size: "27500 sqft",
     bedrooms: 58,
@@ -951,7 +974,7 @@ export const homeData = [
   },
   {
     id: 74,
-    image: "/src/assets/home-16.png",
+    image: home16,
     price: 700000,
     size: "28000 sqft",
     bedrooms: 59,
@@ -963,7 +986,7 @@ export const homeData = [
   },
   {
     id: 75,
-    image: "/src/assets/home-3.png",
+    image: home3,
     price: 5400000,
     size: "21500 sqft",
     bedrooms: 46,
@@ -976,7 +999,7 @@ export const homeData = [
   },
   {
     id: 76,
-    image: "/src/assets/home-4.png",
+    image: home4,
     price: 5500000,
     size: "22000 sqft",
     bedrooms: 47,
@@ -993,7 +1016,7 @@ export const homeData = [
   },
   {
     id: 77,
-    image: "/src/assets/home-5.png",
+    image: home5,
     price: 5600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -1011,7 +1034,7 @@ export const homeData = [
   },
   {
     id: 78,
-    image: "/src/assets/home-6.png",
+    image: home6,
     price: 5700000,
     size: "23000 sqft",
     bedrooms: 49,
@@ -1023,7 +1046,7 @@ export const homeData = [
   },
   {
     id: 79,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 5800000,
     size: "23500 sqft",
     bedrooms: 50,
@@ -1035,7 +1058,7 @@ export const homeData = [
   },
   {
     id: 80,
-    image: "/src/assets/home-8.png",
+    image: home8,
     price: 5900000,
     size: "24000 sqft",
     bedrooms: 51,
@@ -1047,7 +1070,7 @@ export const homeData = [
   },
   {
     id: 81,
-    image: "/src/assets/home-9.png",
+    image: home9,
     price: 6000000,
     size: "24500 sqft",
     bedrooms: 52,
@@ -1059,7 +1082,7 @@ export const homeData = [
   },
   {
     id: 82,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 6100000,
     size: "25000 sqft",
     bedrooms: 53,
@@ -1071,7 +1094,7 @@ export const homeData = [
   },
   {
     id: 83,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 10500000,
     size: "25500 sqft",
     bedrooms: 54,
@@ -1089,7 +1112,7 @@ export const homeData = [
   },
   {
     id: 84,
-    image: "/src/assets/home-12.png",
+    image: home12,
     price: 6300000,
     size: "26000 sqft",
     bedrooms: 55,
@@ -1101,7 +1124,7 @@ export const homeData = [
   },
   {
     id: 85,
-    image: "/src/assets/home-13.png",
+    image: home13,
     price: 6400000,
     size: "26500 sqft",
     bedrooms: 56,
@@ -1117,7 +1140,7 @@ export const homeData = [
   },
   {
     id: 86,
-    image: "/src/assets/home-1.png",
+    image: home1,
     price: 6500000,
     size: "27000 sqft",
     bedrooms: 57,
@@ -1129,7 +1152,7 @@ export const homeData = [
   },
   {
     id: 87,
-    image: "/src/assets/home-15.png",
+    image: home15,
     price: 1000000,
     size: "27500 sqft",
     bedrooms: 58,
@@ -1141,7 +1164,7 @@ export const homeData = [
   },
   {
     id: 88,
-    image: "/src/assets/home-16.png",
+    image: home16,
     price: 700000,
     size: "28000 sqft",
     bedrooms: 59,
@@ -1153,7 +1176,7 @@ export const homeData = [
   },
   {
     id: 89,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 6400000,
     size: "6500 sqft",
     bedrooms: 16,
@@ -1170,7 +1193,7 @@ export const homeData = [
   },
   {
     id: 90,
-    image: "/src/assets/home-18.png",
+    image: home18,
     price: 2500000,
     size: "7000 sqft",
     bedrooms: 17,
@@ -1182,7 +1205,7 @@ export const homeData = [
   },
   {
     id: 90,
-    image: "/src/assets/home-17.png",
+    image: home17,
     price: 2500000,
     size: "7000 sqft",
     bedrooms: 17,
