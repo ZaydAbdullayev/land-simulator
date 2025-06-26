@@ -81,7 +81,9 @@ export const LandSimulator = () => {
             </button>
 
             <button
-              onClick={window.open("https://x.com/hoodestateland", "_blank")}
+              onClick={() =>
+                window.open("https://x.com/hoodestateland", "_blank")
+              }
             >
               <RiTwitterXFill />
             </button>
