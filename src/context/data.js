@@ -87,6 +87,7 @@ export const homeData = [
   {
     id: 5,
     image: home5,
+    home_type: "Luxury Home",
     price: 950000,
     size: "2200 sqft",
     bedrooms: 4,
@@ -127,6 +128,7 @@ export const homeData = [
   {
     id: 8,
     image: home17,
+    home_typee: "Luxury Home",
     price: 13400000,
     size: "2900 sqft",
     bedrooms: 7,
@@ -246,6 +248,7 @@ export const homeData = [
   {
     id: 17,
     image: home17,
+    home_typee: "Luxury Home",
     price: 6400000,
     size: "6500 sqft",
     bedrooms: 16,
@@ -258,7 +261,8 @@ export const homeData = [
   {
     id: 18,
     image: home18,
-    price: 2500000,
+    home_type: "Luxury Home",
+    price: 7500000,
     size: "7000 sqft",
     bedrooms: 17,
     bathrooms: 16,
@@ -387,6 +391,7 @@ export const homeData = [
   {
     id: 27,
     image: home17,
+    home_typee: "Luxury Home",
     price: 3400000,
     size: "11500 sqft",
     bedrooms: 26,
@@ -537,6 +542,7 @@ export const homeData = [
   {
     id: 39,
     image: home17,
+    home_typee: "Luxury Home",
     price: 4600000,
     size: "17500 sqft",
     bedrooms: 38,
@@ -549,6 +555,7 @@ export const homeData = [
   {
     id: 40,
     image: home18,
+    home_type: "Luxury Home",
     price: 4700000,
     size: "18000 sqft",
     bedrooms: 39,
@@ -661,6 +668,7 @@ export const homeData = [
   {
     id: 49,
     image: home5,
+    home_type: "Luxury Home",
     price: 5600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -733,6 +741,7 @@ export const homeData = [
   {
     id: 55,
     image: home18,
+    home_type: "Luxury Home",
     price: 11000000,
     size: "25500 sqft",
     bedrooms: 54,
@@ -833,6 +842,7 @@ export const homeData = [
   {
     id: 63,
     image: home5,
+    home_type: "Luxury Home",
     price: 15600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -947,6 +957,7 @@ export const homeData = [
   {
     id: 72,
     image: home5,
+    home_type: "Luxury Home",
     price: 6500000,
     size: "27000 sqft",
     bedrooms: 57,
@@ -1017,6 +1028,7 @@ export const homeData = [
   {
     id: 77,
     image: home5,
+    home_type: "Luxury Home",
     price: 5600000,
     size: "22500 sqft",
     bedrooms: 48,
@@ -1083,6 +1095,7 @@ export const homeData = [
   {
     id: 82,
     image: home17,
+    home_typee: "Luxury Home",
     price: 6100000,
     size: "25000 sqft",
     bedrooms: 53,
@@ -1177,6 +1190,7 @@ export const homeData = [
   {
     id: 89,
     image: home17,
+    home_typee: "Luxury Home",
     price: 6400000,
     size: "6500 sqft",
     bedrooms: 16,
@@ -1194,6 +1208,7 @@ export const homeData = [
   {
     id: 90,
     image: home18,
+    home_type: "Luxury Home",
     price: 2500000,
     size: "7000 sqft",
     bedrooms: 17,
@@ -1206,6 +1221,7 @@ export const homeData = [
   {
     id: 90,
     image: home17,
+    home_typee: "Luxury Home",
     price: 2500000,
     size: "7000 sqft",
     bedrooms: 17,

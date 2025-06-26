@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 import "./home.css";
 import { homeData } from "./context/data";
+import { RiTwitterXFill } from "react-icons/ri";
 
 export const LandSimulator = () => {
   const transformRef = useRef(null);
@@ -77,6 +78,12 @@ export const LandSimulator = () => {
               onClick={() => setActiveFilter("reserved")}
             >
               Reserved
+            </button>
+
+            <button
+              onClick={window.open("https://x.com/hoodestateland", "_blank")}
+            >
+              <RiTwitterXFill />
             </button>
           </div>
         </div>
@@ -168,7 +175,7 @@ export const LandSimulator = () => {
 
           <div className="w100 df aic fdc modal-header">
             <img src={home?.image} alt="house" className="house-image" />
-            <div className="modal-title">{home?.title || "Cozy Home"}</div>
+            <div className="modal-title">{home?.home_type || "Cozy Home"}</div>
           </div>
 
           <div className="modal-body">
@@ -201,10 +208,7 @@ export const LandSimulator = () => {
                   <u
                     className="fs-14"
                     onClick={() => {
-                      window.open(
-                        `https://opensea.io/${home?.owner?.x_profile}`,
-                        "_blank"
-                      );
+                      window.open(`${home?.owner?.x_profile}`, "_blank");
                     }}
                   >
                     {home?.owner?.x_profile}
@@ -228,10 +232,7 @@ export const LandSimulator = () => {
                   <u
                     className="fs-14"
                     onClick={() => {
-                      window.open(
-                        `https://opensea.io/${home?.reserved?.x_profile}`,
-                        "_blank"
-                      );
+                      window.open(`${home?.reserved?.x_profile}`, "_blank");
                     }}
                   >
                     {home?.reserved?.x_profile}
